@@ -15,7 +15,6 @@ The Student Success Predictor is a machine learning project designed to analyze 
 Programming Language: Python
 
 Libraries & Frameworks:
-
 NumPy
 Pandas
 Scikit-learn
@@ -38,6 +37,7 @@ F1 Score: 99.1%
 🌐 Deploy as a web application
 🤖 Integrate deep learning models
 📊 Add real-time analytics dashboard
+
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
@@ -46,6 +46,7 @@ Aryan Singh
 
 GitHub: https://github.com/itsmearyansingh24-rgb
 LinkedIn: https://www.linkedin.com/in/aryan-singh-4036b8381/
+
 ⭐ Acknowledgements
 Open-source ML community
 Public datasets providers
